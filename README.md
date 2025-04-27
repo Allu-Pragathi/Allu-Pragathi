@@ -1,4 +1,4 @@
-**Hi there 👋, I'm Pragathi Allu!**
+**Hi there 👋, I'm  Allu Pragathi!**
 
 🎓 I'm a Computer Science undergraduate at Lovely Professional University with a strong passion for building impactful applications and analyzing data.
 
